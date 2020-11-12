@@ -1,0 +1,7 @@
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\bin\Debug\testConsole.exe.config
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\bin\Debug\testConsole.exe
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\bin\Debug\testConsole.pdb
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\obj\Debug\testConsole.csprojAssemblyReference.cache
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\obj\Debug\testConsole.csproj.CoreCompileInputs.cache
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\obj\Debug\testConsole.exe
+D:\FAC\CNED\Projet Visual Studio\testConsole\testConsole\obj\Debug\testConsole.pdb
